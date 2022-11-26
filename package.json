@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@handsontable/react": "^12.2.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -10,11 +11,21 @@
     "@types/node": "^16.18.3",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.9",
+    "antd": "^5.0.1",
+    "d3": "^7.4.4",
+    "dimple": "git+https://github.com/PMSI-AlignAlytics/dimple.git#2.3.0",
+    "docx-preview": "^0.1.14",
+    "exceljs": "^4.3.0",
+    "handsontable": "^12.2.0",
+    "jquery": "^3.6.0",
+    "jszip": "^3.10.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "sass": "^1.56.1",
     "typescript": "^4.8.2",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
   },
   "scripts": {
     "start": "react-scripts start",
